@@ -123,5 +123,5 @@ The vision: a unified platform where teams can design, deploy, and continuously 
 ```bash
 echo "Reach out to us:"
 echo "Dheeraj Gowda D S  | Discord: dheerajgowda_ds_03916 | Mail: dsdheeraj70@gmail.com"
-echo "Sagar T K | Mail: sagartktmd@gmail.com
+echo "Sagar T K | Mail: sagartktmd@gmail.com"
 echo "Vrunda S | Mail: vrundareddy1664@gmail.com"
